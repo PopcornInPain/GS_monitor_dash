@@ -1,0 +1,10 @@
+streamlit
+yfinance
+feedparser
+nltk
+pandas
+plotly
+pydeck
+groq
+requests
+numpy
