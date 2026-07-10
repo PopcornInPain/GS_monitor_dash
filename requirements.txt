@@ -8,3 +8,4 @@ pydeck
 groq
 requests
 numpy
+beautifulsoup4
